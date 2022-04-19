@@ -1,0 +1,67 @@
+# <b>Tarea Semana 3 <span style='color:lightseagreen'>|</span> Rejilla de Repertorio sobre Asignaturas</b>
+
+<div style="color:white;display:fill;border-radius:8px;
+            background-color:#323232;font-size:150%;
+            font-family:Nexa;letter-spacing:0.5px">
+    <p style="padding: 8px;color:white;"><b>3.1 | Clúster - Análisis de Resultados</b></p>
+</div>
+
+![](/home/javier/Escritorio/UGR/DGIIM/4º/Cuatri II/IC/Teoría/Tareas/Semana 3/Cluster Tarea 3 IC.png)
+
+
+
+En la imagen adjuntada previamente podemos observar el cluster obtenido. Procedamos al estudio y análisis de los resultados obtenidos: 
+
+En primer lugar, en cuanto a las características, podemos apreciar una relación entre todas ellas. Esto tiene sentido, pues aquellas asignaturas más enfocadas en aspectos relacionados con hardware son las que resultan ser las más difíles posteriormente, tanto a nivel de conceptos como de evaluación. Así mismo, dichas asignaturas se caracterizan por  una programación a más bajo nivel. Por el contrario, las asignaturas relacionadas más con el software, suelen ser más sencillas de aprobar. Así mismo, estas suelen necesitar de un lenguaje de programación a alto nivel para la realización de las prácticas. 
+
+A continuación, actuando como expertos, analizamos si los grupos son coherentes y tienen sentido::
+
+- En la parte superior podemos ver como Inteligencia Artificial (IA), Programación y Diseño Orientado a Objectos (PDOO), Fundamentos de Ingeniería del Software (FIS), Estructura de Datos (ED) y Algorítmica (ALG) están bastante relacionadas. Esto, es coherente pues todas ellas son asignaturas más centradas en el aspecto software. Dichas asignaturas disponen de proyectos prácticos en lenguajes como C++, Java, Ruby... Es decir, lenguajes de alto nivel. Y por último, todas ellas son asignaturas sencillas de aprobar. 
+- En la parte inferior se encuentran Estructura de Computadores (EC) y Arquitectura de Computadores (AC). Al igual que antes, también coherente pues de todas las asignaturas del 2º curso son las más teóricas y más centradas en aspectos hardware. Las prácticas se desarrollan mediante programación a bajo nivel. Suelen ser bastante complicadas de aprobar. 
+- En la parte central nos encontramos con Sistemas Concurrentes y Distribuidos (SCD), Fundamentos de Bases de Datos (FBD) y Sistemas Operativos (SO). Esto tiene sentido pues son asignaturas que combinan aspectos tanto software como hardware. Además suelen ser asignaturas que a los estudiantes les cuesta aprobar (sin llegar a ser muy difíciles). Así mismo, suelen presentar prácticas con programación a un nivel relativamente alto
+
+<div style="color:white;display:fill;border-radius:8px;
+            background-color:#323232;font-size:150%;
+            font-family:Nexa;letter-spacing:0.5px">
+    <p style="padding: 8px;color:white;"><b>3.2 | Grupo Asignaturas - Nombre Descriptivo y Características</b></p>
+</div>
+
+- [AC, EC] : Programación Bajo Nivel. Se caracterizan por: 
+  - Programación a bajo nivel
+  - Gran dificultad a la hora de superar la asignatura
+  - Asignaturas muy teóricas.
+  - Prácticas guiadas. 
+  - Examen final con gran peso en la evaluación final
+- [FBD, SCD] : Asignaturas Mixtas. Se caracterizan por: 
+  - Programación a "medio" nivel. 
+  - Combinan aspectos software con hardware. 
+  - Suelen ser algo complicadas (sin llegar a ser muy difíciles).
+- [[FBD, SCD], SO]: Programación Alto Nivel. Se caracterizan por: 
+  - Programación a alto/"medio" nivel
+  - Suelen ser algo complicadas (sin llegar a ser muy difíciles).
+- [[EC, AC], FBD, SO, SCD] : Asignaturas Complicadas. Se caracterizan por: 
+  - Dificultad algo elevada
+  - Programación a Bajo/Medio Nivel
+  - Exámenes Teóricos Complicados. 
+- [ALG, IA, FIS] : Asignaturas muy sencillas. Se caracterizan por: 
+  - Prácticas con Programación a Alto Nivel. 
+  - Muy sencillas de superar. 
+  - Trabajo autónomo del estudiante.
+  - Prácticas entregables. 
+- [[ALG, IA, FIS], ED, PDOO] : Asignaturas Sencillas. Se caracterizan por: 
+  - Fáciles de aprobar
+  - Gran cantidad de trabajo autónomo.
+  - Gran cantidad de prácticas a realizar.
+  - Más relacionadas con software.  
+  - Prácticas con programación a alto/muy alto nivel.
+
+
+
+<div style="color:white;display:fill;border-radius:8px;
+            background-color:#323232;font-size:150%;
+            font-family:Nexa;letter-spacing:0.5px">
+    <p style="padding: 8px;color:white;"><b>3.3 | Grupo Características - Nombre Descriptivo y Asignaturas que los describen</b></p>
+</div>
+
+- [Programación Bajo Nivel/Programación Alto Nivel, Hardware/Software] : Nivel de Programación de asignaturas tanto hardware como software. En este grupo entran todas las asignaturas. 
+- [[Programación Bajo Nivel/Programación Alto Nivel, Hardware/Software], Fácil/Difícil] : esta descrito por todas las asignaturas. 
